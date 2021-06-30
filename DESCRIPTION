@@ -1,0 +1,11 @@
+Package: SimCM
+Type: Package
+Title: Simulation d´´une chaine de markov
+Version: 0.1.0
+Author: Katia Aggoune
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: simulation d´une chaine de markov
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
